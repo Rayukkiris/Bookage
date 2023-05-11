@@ -55,7 +55,7 @@ a {
         width: 100%;
         height: 200px;
         border-top: 1px solid #16327e;
-        background: url(images/estante.jpg) #ff0000;
+        background: url(images/estante.jpg) #95ccf3;
         background-size: cover;
         background-blend-mode: luminosity;
     }
